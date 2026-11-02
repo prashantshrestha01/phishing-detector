@@ -1,0 +1,17 @@
+From: Fake Support <support@secure-alerts-example.invalid>
+Subject: URGENT: Your account is suspended — act now!
+
+Dear customer,
+
+We detected unusual activity on your account. Your account will be
+locked immediately unless you verify now.
+
+Click here to verify: [paypal.com](https://evil-example.com/login?session=123)
+
+Or visit this link: https://bit.ly/fake-example-123
+
+Attachment: invoice.exe
+
+This is a COMPLETELY FAKE example written for testing this detector.
+No real company, person, or account is involved. Do not use any link
+above for anything real — they are invented examples.

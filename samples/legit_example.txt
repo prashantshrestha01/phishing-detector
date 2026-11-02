@@ -1,0 +1,12 @@
+From: Example Newsletter <news@example.com>
+Subject: Your monthly update
+
+Hello,
+
+Here is our monthly update. You can read the full post at
+https://example.com/blog/monthly-update
+
+Thanks,
+The Example Team
+
+This is a fake, benign example for testing the detector.
